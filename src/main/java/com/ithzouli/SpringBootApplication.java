@@ -9,5 +9,6 @@ public class SpringBootApplication {
         SpringApplication.run(SpringBootApplication.class, args);
         System.out.println("hello");
         System.out.println("hello222");
+        System.out.println("hello333  git");
     }
 }
